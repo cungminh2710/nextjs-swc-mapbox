@@ -1,8 +1,0 @@
-{
-  "../node_modules/react-map-gl/dist/esm/components/map.js -> mapbox-gl": {
-    "id": 6158,
-    "files": [
-      "static/chunks/2c796e83.b1ba909181a75182.js"
-    ]
-  }
-}
